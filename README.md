@@ -167,11 +167,3 @@ git push
 
 ---
 
-### Commit Convention
-
-```
-feat:     নতুন কিছু
-fix:      bug fix
-docs:     documentation
-refactor: code cleanup
-```
